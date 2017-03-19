@@ -47,3 +47,12 @@ Saya adalah seseorang yang sedang berusaha mempelajari sebuah skill baru yang in
 Memang tidaklah mudah, apalagi saya tidak memiliki background IT. Namun semoga semua ini menjadi sebuah perjalanan yang bermanfaat, apapun hasilnya.
 
 >### Man Jadda Wajada
+
+---
+
+# **Future Plans**
+Kedepannya tentu saja website ini akan diusahakan untuk semakin diperindah lagi dengan feature-feature yang semakin canggih.  
+Mulai dari membuatnya menjadi _responsive_, memasukkan _javascript_, dan program-program lainnya.
+
+---
+
