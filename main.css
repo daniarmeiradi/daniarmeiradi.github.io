@@ -1,0 +1,119 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+nav {
+  position: fixed;
+  width: 100%;
+  height: 50px;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 99;
+  text-align: right
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+  margin-left: 20px;
+  padding: 10px;
+  line-height: 50px;
+
+}
+
+nav a:hover {
+  color: lawngreen;
+}
+
+.object {
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+.object h1 {
+  padding-top: 10px;
+}
+
+.one {
+  background-image: url("images/image-html5.jpg");
+}
+
+h1 {
+  padding-left:10px;
+}
+
+p {
+  padding-left:10px;
+  margin-top: 10px;
+}
+
+
+.one h1 {
+  padding-top: 50px;
+  color: white;
+
+}
+
+
+.two {
+  background-image: url("images/image-css3.jpg");
+  background-size: 80%;
+  background-position: center;
+
+}
+
+.aboutmeSection {
+  height: 30%;
+  background-color: bisque;
+}
+
+.progressSection {
+  height: 50%;
+  background-color: lightblue;
+}
+
+ul {
+  padding-left:25px;
+}
+
+li {
+  padding: 3px;
+}
+
+
+.contactmeSection {
+  height: 50%;
+  background-color: lightcoral;
+}
+
+.three {
+  background-image: url("images/image-git-github.jpg");
+
+}
+
+
+.four {
+  background-image: url("images/image-markdown.jpg");
+  background-size: 80%;
+  background-position: center;
+
+}
+
+footer {
+  padding: 15px 0px;
+  background-color: black;
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  font-size: 12px;
+}
